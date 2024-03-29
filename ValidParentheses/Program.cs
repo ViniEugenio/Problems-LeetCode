@@ -1,4 +1,5 @@
-﻿
+﻿// https://leetcode.com/problems/valid-parentheses/description/
+
 var valoresTeste = new Dictionary<string, bool>
 {
     {"(){}}{", false }
