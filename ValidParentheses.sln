@@ -5,11 +5,13 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{D82F4D1D-5041-4FA7-9BAF-8AF82349BA27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{CAA82D1C-6A5E-44AB-BD2B-46A7228F5B6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{CAA82D1C-6A5E-44AB-BD2B-46A7228F5B6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{D6839E3F-5A8C-4EBD-B555-4FBC6B3DC6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{D6839E3F-5A8C-4EBD-B555-4FBC6B3DC6B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E84D21B7-502E-4840-866B-772BCD5B333A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E84D21B7-502E-4840-866B-772BCD5B333A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimmilarCommonPrefix", "SimmilarCommonPrefix\SimmilarCommonPrefix.csproj", "{434C1957-377C-4308-B6C7-68341E239903}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E84D21B7-502E-4840-866B-772BCD5B333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E84D21B7-502E-4840-866B-772BCD5B333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E84D21B7-502E-4840-866B-772BCD5B333A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434C1957-377C-4308-B6C7-68341E239903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434C1957-377C-4308-B6C7-68341E239903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434C1957-377C-4308-B6C7-68341E239903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434C1957-377C-4308-B6C7-68341E239903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
