@@ -4,16 +4,16 @@ int[] PlusOne(int[] digits)
 {
 
     string valorFormatado = "";
-    bool foiUm = true;
+    int resto = 1;
 
     for (var x = digits.Length - 1; x >= 0; x--)
     {
 
-        int result = foiUm ? digits[x] + 1 : digits[x];
+        int result = digits[x] + resto;
 
-        foiUm = result > 9;
+        resto = result > 9 ? 1 : 0;
 
-        if (foiUm && x > 0)
+        if (resto == 1 && x > 0)
         {
             result = 0;
         }
