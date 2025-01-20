@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{D82F4D1D-5041-4FA7-9BAF-8AF82349BA27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 - Valid Parentheses", "ValidParentheses\20 - Valid Parentheses.csproj", "{D82F4D1D-5041-4FA7-9BAF-8AF82349BA27}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{CAA82D1C-6A5E-44AB-BD2B-46A7228F5B6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 - Two Sum", "TwoSum\01 - Two Sum.csproj", "{CAA82D1C-6A5E-44AB-BD2B-46A7228F5B6E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{D6839E3F-5A8C-4EBD-B555-4FBC6B3DC6B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09 - Palindrome Number", "PalindromeNumber\09 - Palindrome Number.csproj", "{D6839E3F-5A8C-4EBD-B555-4FBC6B3DC6B9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{E84D21B7-502E-4840-866B-772BCD5B333A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 - Roman to Integer", "RomanToInteger\13 - Roman to Integer.csproj", "{E84D21B7-502E-4840-866B-772BCD5B333A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimmilarCommonPrefix", "SimmilarCommonPrefix\SimmilarCommonPrefix.csproj", "{434C1957-377C-4308-B6C7-68341E239903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14 - Longest Common Prefix", "SimmilarCommonPrefix\14 - Longest Common Prefix.csproj", "{434C1957-377C-4308-B6C7-68341E239903}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{C2AD71AA-0E5B-49A1-A8A0-BD78BBFEBD70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26 - Remove Duplicates from Sorted Array", "RemoveDuplicatesFromSortedArray\26 - Remove Duplicates from Sorted Array.csproj", "{9DBA54C3-AB15-4E6A-BBA4-BFF87A5D7D30}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{9DBA54C3-AB15-4E6A-BBA4-BFF87A5D7D30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27 - Remove Element", "RemoveElement\27 - Remove Element.csproj", "{311B8E7D-0719-4C93-A10A-9E1A26F52B9C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{311B8E7D-0719-4C93-A10A-9E1A26F52B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28 - Find the Index of the First Occurrence in a String", "FindTheIndexOfTheFirstOccurrenceInaString\28 - Find the Index of the First Occurrence in a String.csproj", "{176ECBE4-85A0-4653-9132-210148248997}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheFirstOccurrenceInaString", "FindTheIndexOfTheFirstOccurrenceInaString\FindTheIndexOfTheFirstOccurrenceInaString.csproj", "{176ECBE4-85A0-4653-9132-210148248997}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35 - Search Insert Position", "SearchInsertPosition\35 - Search Insert Position.csproj", "{34AD85C3-2E97-41D4-B5D0-234A38069338}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInsertPosition", "SearchInsertPosition\SearchInsertPosition.csproj", "{34AD85C3-2E97-41D4-B5D0-234A38069338}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58 - Length of Last Word", "LengthOfLastWord\58 - Length of Last Word.csproj", "{99426B37-9D9B-465C-B58A-52CF6B7D91B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{99426B37-9D9B-465C-B58A-52CF6B7D91B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66 - Plus One", "PlusOne\66 - Plus One.csproj", "{28F4C7E7-062C-47FE-B810-10F9656513DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{28F4C7E7-062C-47FE-B810-10F9656513DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 - Add Binary", "AddBinary\67 - Add Binary.csproj", "{7F346ACB-9F7D-4024-B043-A33EB9563B9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{7F346ACB-9F7D-4024-B043-A33EB9563B9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70 - Climbing Stairs", "ClimbingStairs\70 - Climbing Stairs.csproj", "{3307CCA6-DFB7-4067-9063-F85B4D9FB184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingStairs", "ClimbingStairs\ClimbingStairs.csproj", "{3307CCA6-DFB7-4067-9063-F85B4D9FB184}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "89 - Remove Duplicates from Sorted List", "89 - Remove Duplicates from Sorted List\89 - Remove Duplicates from Sorted List.csproj", "{65376930-FF3E-4152-95DB-A39C4E86B07E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,10 +57,6 @@ Global
 		{434C1957-377C-4308-B6C7-68341E239903}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{434C1957-377C-4308-B6C7-68341E239903}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{434C1957-377C-4308-B6C7-68341E239903}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C2AD71AA-0E5B-49A1-A8A0-BD78BBFEBD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C2AD71AA-0E5B-49A1-A8A0-BD78BBFEBD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C2AD71AA-0E5B-49A1-A8A0-BD78BBFEBD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C2AD71AA-0E5B-49A1-A8A0-BD78BBFEBD70}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9DBA54C3-AB15-4E6A-BBA4-BFF87A5D7D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9DBA54C3-AB15-4E6A-BBA4-BFF87A5D7D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DBA54C3-AB15-4E6A-BBA4-BFF87A5D7D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -93,6 +89,10 @@ Global
 		{3307CCA6-DFB7-4067-9063-F85B4D9FB184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3307CCA6-DFB7-4067-9063-F85B4D9FB184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3307CCA6-DFB7-4067-9063-F85B4D9FB184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
