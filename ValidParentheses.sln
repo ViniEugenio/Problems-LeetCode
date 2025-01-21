@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 - Add Binary", "AddBinar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70 - Climbing Stairs", "ClimbingStairs\70 - Climbing Stairs.csproj", "{3307CCA6-DFB7-4067-9063-F85B4D9FB184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "89 - Remove Duplicates from Sorted List", "89 - Remove Duplicates from Sorted List\89 - Remove Duplicates from Sorted List.csproj", "{65376930-FF3E-4152-95DB-A39C4E86B07E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83 - Remove Duplicates from Sorted List", "89 - Remove Duplicates from Sorted List\83 - Remove Duplicates from Sorted List.csproj", "{65376930-FF3E-4152-95DB-A39C4E86B07E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
