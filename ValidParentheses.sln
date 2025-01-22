@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70 - Climbing Stairs", "Cli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83 - Remove Duplicates from Sorted List", "89 - Remove Duplicates from Sorted List\83 - Remove Duplicates from Sorted List.csproj", "{65376930-FF3E-4152-95DB-A39C4E86B07E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 - Merge Two Sorted Lists", "21 - Merge Two Sorted Lists\21 - Merge Two Sorted Lists.csproj", "{9ABAED17-714D-4626-8C11-1B68E91978F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65376930-FF3E-4152-95DB-A39C4E86B07E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABAED17-714D-4626-8C11-1B68E91978F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABAED17-714D-4626-8C11-1B68E91978F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABAED17-714D-4626-8C11-1B68E91978F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABAED17-714D-4626-8C11-1B68E91978F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
